@@ -3,7 +3,7 @@
 A list of all the AR projetcs that I did during bachelors and also some residential BIM projects.
 
 ## Index
-- [fun+entertainment](#funtertainment)
+- [fun](#fun)
 - [Residential Projects](#projects)
 - [Research](#research)
 
