@@ -7,5 +7,5 @@ A list of all the AR projetcs that I did during bachelors and also some resident
 - [Residential Projects](#projects)
 - [Research](#research)
 
-#funtertainment
+#fun
 - [CampNou_AR](https://github.com/Barcaboy-Ovid/CampNou_AR)
